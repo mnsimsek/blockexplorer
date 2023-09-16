@@ -1,6 +1,5 @@
 import { Alchemy, Network,Utils } from 'alchemy-sdk';
 import { useEffect, useState } from 'react';
-import { formatEther } from "ethers/utils";
 import { Link } from "react-router-dom";
 import { Container, Table } from 'react-bootstrap';
 
